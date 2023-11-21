@@ -1,8 +1,8 @@
-# Projeto de Análise de Dados Imobiliários da Redfin
+# Projeto de Engenharia de Dados Imobiliários da Redfin
 
 ## Visão Geral
 
-Bem-vindo ao projeto de Análise de Dados Imobiliários da Redfin! Este projeto visa extrair, transformar e carregar dados imobiliários da Redfin usando Python. Utilizamos tecnologias como Apache Airflow, Snowpipe, Snowflake e serviços da AWS para orquestrar e automatizar todo o processo de ETL.
+Bem-vindo ao projeto de Engenharia de Dados Imobiliários da Redfin! Este projeto visa extrair, transformar e carregar dados imobiliários da Redfin usando Python. Utilizamos tecnologias como Apache Airflow, Snowpipe, Snowflake e serviços da AWS para orquestrar e automatizar todo o processo de ETL.
 
 ## Recursos
 
