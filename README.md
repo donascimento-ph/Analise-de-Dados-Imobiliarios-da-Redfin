@@ -31,5 +31,9 @@ Bem-vindo ao projeto de Engenharia de Dados Imobiliários da Redfin! Este projet
 - Snowflake
 - PowerBi
 
-## Dashboard
+## Dashboard Power BI
+
+![Dashboard](https://github.com/donascimento-ph/Engenharia-de-Dados-Imobiliarios-da-Redfin/blob/main/DashboardPowerBI.png)
+
+
 
